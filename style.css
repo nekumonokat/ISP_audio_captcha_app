@@ -1,0 +1,14 @@
+.iconButton {
+    font-size: xx-large;
+    background: none;
+    border: none;
+}
+
+.submitButton {
+    background-color: #00FF00;
+    height: 45px; border-radius: 5%;
+}
+
+.inputBox {
+    width: 190px; height: 40px;
+}
